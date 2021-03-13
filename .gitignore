@@ -1,0 +1,9 @@
+data/
+.vscode/
+__pycache__/
+dialogue_model/
+mmi_model/
+raw_chat_corpus/
+*.zip
+train.txt
+mmi_samples.txt
